@@ -2060,7 +2060,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		position: relative;
-		height: 24em;
+		height: 32em;
 		background: url("../../images/banner.jpg") center center;
 		background-size: cover;
 		padding: 0;
@@ -2077,7 +2077,7 @@ input, select, textarea {
 		}
 
 		.homepage #header {
-			height: 25em;
+			height: 28em;
 		}
 
 /* Logo */
@@ -2093,7 +2093,7 @@ input, select, textarea {
 			font-weight: 900;
 			text-transform: uppercase;
 			color: #fff;
-			font-size: 2em;
+			font-size: 3em;
 			letter-spacing: 0.25em;
 		}
 
@@ -2104,7 +2104,7 @@ input, select, textarea {
 			margin: 1.25em 0 0 0;
 			display: block;
 			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			font-size: 1.2em;
 		}
 
 /* Nav */
@@ -2141,7 +2141,7 @@ input, select, textarea {
 					color: rgba(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 1.0em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
@@ -2212,7 +2212,8 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		padding-bottom: 8em;
+		padding-bottom: 5em;
+		padding-top: 3em;
 		text-align: center;
 	}
 
@@ -2873,11 +2874,11 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				height: 17em;
+				height: 25em;
 			}
 
 				.homepage #header {
-					height: 20em;
+					height: 30em;
 				}
 
 		/* Logo */
